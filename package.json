@@ -1,0 +1,26 @@
+{
+  "name": "shop-app",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node app"
+  },
+  "description": "ShopApp",
+  "author": {
+    "name": ""
+  },
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.15.0",
+    "cookie-parser": "^1.4.0",
+    "debug": "^2.2.0",
+    "dotenv": "^16.0.3",
+    "express": "^4.14.0",
+    "implement-js": "^0.0.31",
+    "jsonwebtoken": "^9.0.0",
+    "mongoose": "^6.8.2",
+    "morgan": "^1.7.0",
+    "pug": "^3.0.2",
+    "serve-favicon": "^2.3.0"
+  }
+}
